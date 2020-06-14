@@ -1,0 +1,86 @@
+#part1{
+    background-color: teal;
+    font-family: monospace;  
+}
+
+.part2{
+    color: green;
+    font-family: sans-serif;
+}
+.part3{
+    color:darkslategray;
+    font-family: sans-serif;
+}
+.part4{
+    font-family: sans-serif;
+    /*border-width: 3px;
+    border-style: solid;
+    border-color: black;*/
+    border: 3px solid black;
+}
+
+.part5{
+    font-family: sans-serif;
+    border: 3px solid black;
+    /*outline-width: 3px;
+    outline-style: solid;
+    outline-color: blue;*/
+    outline: 3px solid blue;
+    outline-offset: 5px;
+}
+
+.div1{
+    font-family: sans-serif;
+    border: 3px solid black;
+    /*padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;*/
+    
+    padding: 10px 20px;
+}
+
+.div2{
+    font-family: sans-serif;
+    border: 3px solid black;
+    width: 50%;
+    /*margin-top: 15px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    margin-left: 20px;*/
+    margin: 20px auto;
+}
+
+hrml{
+    font-size: 20px;
+}
+
+body{
+    font-size: 20px;
+}
+
+.div3{
+    border: 2px solid green;
+    font-size: 2em;
+}
+
+.div3 div{
+    font-size: 2em;
+}
+
+.div4{
+    border: 2px solid green;
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+.div4 div{
+    font-size: 2rem;
+}
+
+.div5{
+    border: 2px solid green;
+    margin-top: 20px;
+    font-size: 2rem;
+    height: 200px;
+}
